@@ -1,0 +1,16 @@
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\Employee Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\Employee Management System.AssemblyInfoInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\Employee Management System.AssemblyInfo.cs
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\bin\Debug\net5.0\Employee Management System.exe
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\bin\Debug\net5.0\Employee Management System.deps.json
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\bin\Debug\net5.0\Employee Management System.runtimeconfig.json
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\bin\Debug\net5.0\Employee Management System.runtimeconfig.dev.json
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\bin\Debug\net5.0\Employee Management System.dll
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\bin\Debug\net5.0\ref\Employee Management System.dll
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\bin\Debug\net5.0\Employee Management System.pdb
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\Employee Management System.dll
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\ref\Employee Management System.dll
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\Employee Management System.pdb
+C:\Users\AshikhaMylsamy\source\repos\Employee Management System\Employee Management System\obj\Debug\net5.0\Employee Management System.genruntimeconfig.cache
